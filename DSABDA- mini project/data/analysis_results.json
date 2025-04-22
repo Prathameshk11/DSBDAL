@@ -1,0 +1,113 @@
+[
+  {
+    "image_path": "C:/Users/prath/Downloads/DSBDA_project/DSBDA_project/a01-000u.png",
+    "timestamp": "2025-04-20 19:27:14",
+    "features": {
+      "left_margin_good": 0,
+      "right_margin_good": 0,
+      "top_margin_good": 1,
+      "bottom_margin_good": 1,
+      "is_line_straight": 0,
+      "is_line_sloped": 0,
+      "is_line_curved": 0,
+      "left_margin": 0,
+      "top_margin": 80,
+      "right_margin": 28,
+      "bottom_margin": 471,
+      "left_margin_ratio": 0.0,
+      "right_margin_ratio": 0.02258064516129032,
+      "top_margin_ratio": 0.04561003420752566,
+      "bottom_margin_ratio": 0.2685290763968073,
+      "mean_line_angle": 0,
+      "std_line_angle": 0,
+      "num_lines": 0,
+      "avg_word_spacing": 242.8,
+      "std_word_spacing": 441.22892017636383,
+      "spacing_density": 0.004032258064516129,
+      "text_density": 0.05011193139264051,
+      "line_height_variation": 2.2858044075676958,
+      "horizontal_alignment": 0.05741625808403233
+    },
+    "traits": {
+      "family_attachment": true,
+      "risk_taking": 0,
+      "energy": 0,
+      "planning": 1,
+      "personality_type": "introvert"
+    }
+  },
+  {
+    "image_path": "C:/Users/prath/Downloads/DSBDA_project/DSBDA_project/a01-049u.png",
+    "timestamp": "2025-04-21 13:14:23",
+    "features": {
+      "left_margin_good": 1,
+      "right_margin_good": 1,
+      "top_margin_good": 1,
+      "bottom_margin_good": 1,
+      "is_line_straight": 1,
+      "is_line_sloped": 0,
+      "is_line_curved": 0,
+      "left_margin": 163,
+      "top_margin": 97,
+      "right_margin": 58,
+      "bottom_margin": 343,
+      "left_margin_ratio": 0.1314516129032258,
+      "right_margin_ratio": 0.0467741935483871,
+      "top_margin_ratio": 0.05530216647662486,
+      "bottom_margin_ratio": 0.19555302166476624,
+      "mean_line_angle": 0.0,
+      "std_line_angle": 0.0,
+      "num_lines": 71,
+      "avg_word_spacing": 407.3333333333333,
+      "std_word_spacing": 440.1524988253756,
+      "spacing_density": 0.0024193548387096775,
+      "text_density": 0.07375542022724998,
+      "line_height_variation": 0.4919837816549869,
+      "horizontal_alignment": 0.0
+    },
+    "traits": {
+      "family_attachment": false,
+      "risk_taking": 1,
+      "energy": 0,
+      "planning": 1,
+      "personality_type": "ambivert"
+    }
+  },
+  {
+    "image_path": "C:/Users/prath/Downloads/DSBDA_project/DSBDA_project/a01-000u.png",
+    "timestamp": "2025-04-21 18:51:46",
+    "features": {
+      "left_margin_good": 0,
+      "right_margin_good": 0,
+      "top_margin_good": 1,
+      "bottom_margin_good": 1,
+      "is_line_straight": 0,
+      "is_line_sloped": 0,
+      "is_line_curved": 0,
+      "left_margin": 0,
+      "top_margin": 80,
+      "right_margin": 28,
+      "bottom_margin": 471,
+      "left_margin_ratio": 0.0,
+      "right_margin_ratio": 0.02258064516129032,
+      "top_margin_ratio": 0.04561003420752566,
+      "bottom_margin_ratio": 0.2685290763968073,
+      "mean_line_angle": 0,
+      "std_line_angle": 0,
+      "num_lines": 0,
+      "avg_word_spacing": 242.8,
+      "std_word_spacing": 441.22892017636383,
+      "spacing_density": 0.004032258064516129,
+      "text_density": 0.05011193139264051,
+      "line_height_variation": 2.2858044075676958,
+      "horizontal_alignment": 0.05741625808403233
+    },
+    "traits": {
+      "family_attachment": true,
+      "risk_taking": 0,
+      "energy": 0,
+      "planning": 1,
+      "personality_type": "introvert"
+    }
+  }
+]
